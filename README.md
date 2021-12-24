@@ -1,10 +1,7 @@
-Hi, I’m @xanzheus
-I’m interested in ...
-I’m currently learning ...
-I’m looking to collaborate on ...
-How to reach me ...
+<h1 align="center">Hi! 👋 I'm xanzheus</h1>
 
-<!---
-xanzheus/xanzheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://instagram.com/xanzevs"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+17+Years+old.;studying+to+be+a+programmer." alt="zevs">
+</p>
+  
+![My card name](https://cardivo.vercel.app/api?name=Darrma23&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.ibb.co/z4ws21x/f28a92fb0e4b.jpg)
